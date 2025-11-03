@@ -1,0 +1,46 @@
+2025-10-31 09:16:32,548 - ERROR - No such comm target registered: jupyter.widget.control
+2025-10-31 09:16:32,578 - WARNING - No such comm: 081bd964-3d85-4854-9d4c-8fa7b1db601e
+2025-10-31 09:57:58,196 - ERROR - No such comm target registered: jupyter.widget.control
+2025-10-31 09:57:58,209 - WARNING - No such comm: cb274efe-4409-4cc7-a58a-0e843f46116e
+2025-10-31 10:12:25,229 - ERROR - No such comm target registered: jupyter.widget.control
+2025-10-31 10:12:25,245 - WARNING - No such comm: aacc1b17-6e83-4604-8fbf-890251d022f5
+2025-10-31 10:50:05,494 - ERROR - No such comm target registered: jupyter.widget.control
+2025-10-31 10:50:05,503 - WARNING - No such comm: 30936d95-d65c-4a44-8042-5f635877354c
+2025-10-31 14:08:56,600 - ERROR - No such comm target registered: jupyter.widget.control
+2025-10-31 14:08:56,627 - WARNING - No such comm: bb1fd297-094f-44ab-990d-48b0f0c07f8f
+2025-10-31 17:57:07,695 - ERROR - No such comm target registered: jupyter.widget.control
+2025-10-31 17:57:07,708 - WARNING - No such comm: c792fbf5-c66c-4484-a502-c8eae88edf56
+2025-10-31 19:57:46,226 - ERROR - No such comm target registered: jupyter.widget.control
+2025-10-31 19:57:46,232 - WARNING - No such comm: 58dc21a8-4330-467c-92c6-ccaeaa15b956
+2025-11-01 03:20:17,213 - ERROR - No such comm target registered: jupyter.widget.control
+2025-11-01 03:20:17,221 - WARNING - No such comm: 9f59c0b7-8cfd-4d3d-94c5-f0cf6d7adf80
+2025-11-01 03:33:05,838 - ERROR - No such comm target registered: jupyter.widget.control
+2025-11-01 03:33:05,843 - WARNING - No such comm: 7a8c8eaf-6e4e-44e6-9d80-30c47df031ae
+2025-11-01 08:10:08,269 - ERROR - No such comm target registered: jupyter.widget.control
+2025-11-01 08:10:08,284 - WARNING - No such comm: 7caa7902-2d13-4c5e-9b6f-e4e57463ca45
+2025-11-01 12:10:08,570 - ERROR - No such comm target registered: jupyter.widget.control
+2025-11-01 12:10:08,579 - WARNING - No such comm: 2e71618b-e936-4a0c-b391-bb5b673b847b
+2025-11-01 13:10:45,569 - ERROR - No such comm target registered: jupyter.widget.control
+2025-11-01 13:10:45,573 - WARNING - No such comm: 9a039632-5c93-4259-9d69-5183de6357b3
+2025-11-01 13:11:36,628 - ERROR - No such comm target registered: jupyter.widget.control
+2025-11-01 13:11:36,631 - WARNING - No such comm: 73b436aa-929a-457a-9308-322833d38e19
+2025-11-01 13:11:38,004 - ERROR - No such comm target registered: jupyter.widget.control
+2025-11-01 13:11:38,007 - WARNING - No such comm: a248b486-8c36-49d3-80b6-a6c26a3bc963
+2025-11-01 22:03:31,233 - ERROR - No such comm target registered: jupyter.widget.control
+2025-11-01 22:03:31,243 - WARNING - No such comm: cbbec459-92ef-41f0-ba13-52757e775084
+2025-11-02 06:56:47,071 - ERROR - No such comm target registered: jupyter.widget.control
+2025-11-02 06:56:47,090 - WARNING - No such comm: 7dfb82b9-65ed-44ef-912c-171ecb3c8131
+2025-11-03 09:16:59,838 - ERROR - No such comm target registered: jupyter.widget.control
+2025-11-03 09:16:59,845 - WARNING - No such comm: f0941127-984e-4399-8c38-72177fdf46f7
+2025-11-03 09:27:41,605 - ERROR - No such comm target registered: jupyter.widget.control
+2025-11-03 09:27:41,608 - WARNING - No such comm: 6baa8f08-2de9-49b9-b3f4-e64381c90549
+2025-11-03 10:56:32,490 - ERROR - No such comm target registered: jupyter.widget.control
+2025-11-03 10:56:32,519 - WARNING - No such comm: ec235f06-fa5a-44ec-bc92-d93d98dddc0f
+2025-11-03 14:08:17,889 - ERROR - No such comm target registered: jupyter.widget.control
+2025-11-03 14:08:17,897 - WARNING - No such comm: 3383d5cd-1aa9-4bcd-8f39-abc4a5bb7e71
+2025-11-03 19:50:05,344 - ERROR - No such comm target registered: jupyter.widget.control
+2025-11-03 19:50:05,409 - WARNING - No such comm: 849eb556-f293-43ee-800b-772f72c297a3
+2025-11-04 03:56:18,435 - ERROR - No such comm target registered: jupyter.widget.control
+2025-11-04 03:56:18,459 - WARNING - No such comm: 033f86e8-aaef-4b4b-8be6-9e5d77a55a65
+2025-11-04 04:07:24,245 - INFO - added expence : {'date': '2025-10-10', 'category': 'Food', 'amount': 250.0}
+2025-11-04 04:07:24,248 - INFO - added expence : {'date': '2025-11-04', 'category': 'Coffee', 'amount': 60.0}
