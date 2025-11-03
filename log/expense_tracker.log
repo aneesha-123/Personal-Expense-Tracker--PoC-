@@ -44,3 +44,5 @@
 2025-11-04 03:56:18,459 - WARNING - No such comm: 033f86e8-aaef-4b4b-8be6-9e5d77a55a65
 2025-11-04 04:07:24,245 - INFO - added expence : {'date': '2025-10-10', 'category': 'Food', 'amount': 250.0}
 2025-11-04 04:07:24,248 - INFO - added expence : {'date': '2025-11-04', 'category': 'Coffee', 'amount': 60.0}
+2025-11-04 04:37:39,258 - INFO - added expence : {'date': '2025-10-10', 'category': 'Food', 'amount': 250.0}
+2025-11-04 04:37:39,260 - INFO - added expence : {'date': '2025-11-04', 'category': 'Coffee', 'amount': 60.0}
